@@ -1,16 +1,14 @@
-## Hi there 👋
+# Sharath C. R. Ganta
 
-<!--
-**scganta/scganta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Project Manager / Delivery Lead with 22+ years of experience delivering enterprise and government systems.
 
-Here are some ideas to get you started:
+## Focus Areas
+- Technical project & program delivery
+- Agile / Scrum execution
+- Legacy system modernization
+- Stakeholder & executive collaboration
+- Applied AI & analytics (delivery perspective)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About This GitHub
+This GitHub space is used to share **high-level project summaries, case studies, and applied learning artifacts**.
+The intent is to demonstrate **structured thinking and delivery approach**, not production-ready code.
